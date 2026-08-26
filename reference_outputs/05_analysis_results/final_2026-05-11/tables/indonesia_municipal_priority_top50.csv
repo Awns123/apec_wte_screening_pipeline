@@ -1,0 +1,51 @@
+country,year,province,municipality,waste_generation_tpd,managed_waste_pct,unmanaged_waste_pct,leaked_to_environment_pct,food_waste_share_pct,paper_cardboard_share_pct,plastic_share_pct,estimated_lhv_low_mj_per_kg,estimated_lhv_mixed_mj_per_kg,existing_feedstock_risk_score_0_100,risk_weighted_waste_tpd,lhv_deficit_score_0_100,load_score_0_100,final_priority_score_0_100,priority_class
+Indonesia,2025,Jawa Barat,Kabupaten Cianjur,1305.16,0.03,0.97,0.68,61.05,6.94,14.39,8.843,10.37,90.8,1185.085,78.92,87.07,88.23,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Kalimantan Barat,Kabupaten Sanggau,253.78,0,1,0.84,56.21,4.73,7.1,5.465,6.871,98.4,249.72,100,53.59,85.52,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Riau,Kota Pekanbaru,1050.84,0.22,0.78,0.02,56.35,2.78,14.19,8.008,9.418,82.95,871.672,99.8,82.63,85.48,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Pasuruan,833.7,0.31,0.69,0.69,58.5,5.7,10,6.835,8.298,88.65,739.075,100,77.89,84.75,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Barat,Kabupaten Indramayu,1121.64,0.09,0.91,0.37,45.17,8.47,13.78,8.26,9.39,76.65,859.737,93.5,83.96,84.37,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Kalimantan Timur,Kota Samarinda,607.95,0,1,0.01,52.88,11.41,12.94,8.615,9.938,80.35,488.488,84.63,71.43,81.48,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Lampung,Kabupaten Tulang Bawang,180.12,0.1,0.9,0.9,70,5,6,5.552,7.303,96.5,173.816,100,46.6,81.25,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sulawesi Selatan,Kabupaten Luwu Utara,166.56,0.01,0.99,0.83,55,10,10,7.322,8.698,93.8,156.233,100,45,81.18,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Tengah,Kabupaten Wonogiri,421.66,0.06,0.94,0.88,53,16,11,8.5,9.826,85.7,361.363,87.5,63.95,80.78,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Bengkulu,Kabupaten Seluma,107.5,0,1,0.98,80,5,2,4.315,6.316,99.8,107.285,100,36.1,80.76,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Tengah,Kota Surakarta,421.48,0.12,0.88,0.07,49.55,7.17,10.29,6.844,8.083,80.9,340.977,100,63.95,80.7,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Tengah,Kabupaten Sragen,401.9,0.18,0.82,0.35,74.3,8.9,11.2,8.321,10.179,84.75,340.61,91.98,62.97,79.25,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Papua,Kota Jayapura,202.4,0,1,1,54,5.8,15.79,8.989,10.34,93.7,189.649,75.27,48.97,77.54,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sumatera Barat,Kabupaten Agam,232.44,0.34,0.66,0.66,70.44,6.08,8.15,6.574,8.336,88.1,204.78,100,51.8,76.27,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Ngawi,371.87,0.27,0.73,0.71,60,11,12.5,8.632,10.133,83.35,309.954,84.2,61.39,75.38,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sulawesi Utara,Kabupaten Bolaang Mongondow Timur,128.69,0,1,1,50.16,8.75,13.98,8.555,9.809,89.1,114.663,86.13,39.76,75.34,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Tengah,Kota Semarang,1190.46,0.08,0.92,0.2,60.8,10.2,17.2,10.413,11.933,79.75,949.392,39.67,85.18,75.2,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sulawesi Tenggara,Kabupaten Buton,61.01,0,1,0.75,50,5,10,6.437,7.687,93.1,56.8,100,24.64,74.98,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Lampung,Kota Bandar Lampung,700.48,0.07,0.93,0,15.8,3,2.6,2.013,2.408,53.45,374.407,100,74.33,74.96,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Blitar,417,0.03,0.97,0.9,40,12.55,15,9.142,10.142,74.55,310.873,71.45,63.73,74.05,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Banyuwangi,839.1,0.48,0.52,0.31,60.59,5.77,14.75,8.804,10.319,76.6,642.751,79.9,78.03,74,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Kalimantan Barat,Kota Singkawang,97.21,0.12,0.88,0,76,8.4,7.8,6.96,8.861,86,83.601,100,34.06,73.52,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Riau,Kota Dumai,177.76,0.23,0.77,0.11,48.97,5.3,8.95,6.026,7.251,80.15,142.475,100,46.33,73.5,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Bangkalan,417.67,0.23,0.77,0.77,52.32,9.72,14.97,9.161,10.47,81.55,340.61,70.98,63.76,73.42,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Bali,Kabupaten Badung,876.05,0.17,0.83,0.31,17.12,6.82,16.28,8.033,8.461,48.5,424.884,99.18,78.91,72.93,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Banten,Kabupaten Lebak,612.63,0.23,0.77,0.69,30,10,15,8.428,9.179,60.5,370.641,89.3,71.59,72.06,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Tuban,528.51,0.66,0.34,0.34,58.52,5.78,11.02,7.252,8.716,75.4,398.497,100,68.57,72.06,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Barat,Kabupaten Garut,1141.12,0.14,0.86,0.66,59.3,6.3,20.5,11.116,12.6,83.35,951.124,22.1,84.32,71.79,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Barat,Kabupaten Bekasi,2404.34,0.03,0.97,0.67,42.7,24.08,15.56,11.095,12.164,64.65,1554.406,22.62,99.57,71.57,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sulawesi Utara,Kota Kotamobagu,65.21,0.05,0.95,0.07,53.5,11.8,8.5,6.929,8.268,83.75,54.613,100,25.98,71.36,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Timur,Kabupaten Nganjuk,743.93,0.49,0.51,0.4,61.5,13.1,12.3,8.904,10.442,73,543.069,77.4,75.56,71.35,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Barat,Kabupaten Kuningan,485.57,0.12,0.88,0.34,40,10,16,9.177,10.177,67.95,329.945,70.58,66.84,71.15,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Jawa Tengah,Kabupaten Semarang,544.36,0.13,0.87,0.36,71.56,4.25,18.52,10.47,12.26,83.85,456.446,38.25,69.18,70.8,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Sulawesi Utara,Kabupaten Bolaang Mongondow,128.69,0.01,0.99,0.98,49,9.45,15.6,9.256,10.482,85.85,110.48,68.6,39.76,70.54,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Aceh,Kabupaten Aceh Timur,184.56,0,1,0.58,25,9,15,8.111,8.736,61.5,113.504,97.22,47.09,70.1,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Bengkulu,Kabupaten Lebong,45.91,0,1,0.74,64.45,8.56,12.84,8.577,10.189,92.15,42.306,85.58,18.93,70.05,Tier 1: immediate RDF/pre-treatment screening
+Indonesia,2025,Kalimantan Tengah,Kabupaten Kotawaringin Timur,245.44,0.03,0.97,0.82,53,15,15,9.946,11.272,83.35,204.574,51.35,52.91,69.86,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Sumatera Selatan,Kabupaten Ogan Komering Ulu,156.02,0,1,0.63,35,10,15,8.604,9.48,70.45,109.916,84.9,43.67,69.74,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Maluku Utara,Kabupaten Halmahera Timur,50.24,0.05,0.95,0.81,43.57,7.57,13.03,7.778,8.868,82.1,41.247,100,20.73,69.21,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Jawa Tengah,Kabupaten Wonosobo,368.2,0.7,0.3,0.3,71.3,2.5,13.1,8.061,9.845,75,276.15,98.47,61.18,68.8,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Sumatera Utara,Kota Tanjung Balai,94.03,0.04,0.96,0.34,64.02,9.5,13.98,9.148,10.75,85.4,80.302,71.3,33.39,68.57,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Bali,Kabupaten Buleleng,414.08,0.13,0.87,0.5,4,6.69,14.69,6.922,7.022,46.5,192.547,100,63.58,68.4,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Jawa Timur,Kabupaten Pamekasan,280.74,0.61,0.39,0.39,55,7,13,8.087,9.463,74.4,208.871,97.83,55.65,68.15,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Jawa Timur,Kabupaten Probolinggo,477.31,0.04,0.96,0.84,52.02,16.6,16.91,10.897,12.198,79.1,377.552,27.57,66.49,67.55,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Sulawesi Utara,Kota Manado,296.05,0.05,0.95,0.12,51,13,16,9.989,11.265,74.6,220.853,50.27,56.73,67.43,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Jawa Tengah,Kabupaten Klaten,650.07,0.26,0.74,0.49,60,5,20,10.758,12.259,80.15,521.031,31.05,72.8,67.2,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Kalimantan Selatan,Kabupaten Hulu Sungai Utara,119.13,0.34,0.66,0.66,49.1,8.41,13.8,8.398,9.626,76.9,91.611,90.05,38.19,66.28,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Jawa Barat,Kota Cirebon,216.35,0.06,0.94,0.2,49.22,5.56,19.01,10.066,11.297,77.3,167.239,48.35,50.33,65.92,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Sulawesi Selatan,Kabupaten Bulukumba,192.27,0.22,0.78,0.78,28.5,9.25,15.18,8.341,9.054,60.95,117.189,91.48,47.93,65.71,Tier 2: strong candidate for targeted waste-quality intervention
+Indonesia,2025,Maluku Utara,Kabupaten Pulau Morotai,33.17,0.03,0.97,0.58,37,6,10,6.122,7.047,78.3,25.972,100,12.44,65.69,Tier 2: strong candidate for targeted waste-quality intervention

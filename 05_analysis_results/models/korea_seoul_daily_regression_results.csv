@@ -1,0 +1,13 @@
+model,dependent_variable,fixed_effects,sample,variable,coefficient_log_points,approx_percent_change,standard_error,t_stat
+D1,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",precipitation_10mm,-0.00001,-0.001,0.00057,-0.02
+D1,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",humidity_10pct,-0.00829,-0.826,0.00074,-11.191
+D1,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",temp_10c,0.04652,4.762,0.00236,19.73
+D2,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",rain_flag,-0.00887,-0.884,0.00226,-3.934
+D2,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",humidity_10pct,-0.00674,-0.672,0.00082,-8.202
+D2,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",temp_10c,0.04701,4.813,0.00235,20.038
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",precipitation_10mm,-0.00182,-0.182,0.00047,-3.877
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",humidity_10pct,-0.00811,-0.807,0.0006,-13.418
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",temp_10c,0.04367,4.464,0.00192,22.715
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",monday,0.11307,11.971,0.00211,53.641
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",saturday,0.03455,3.515,0.00211,16.341
+D3,log(food_waste_tonnes + 1),municipality and year-month,"Seoul municipalities, daily 2021-01-01 to 2024-01-31",sunday,0.241,27.252,0.00211,114.255

@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.csv -text
+scripts/*.js -text
+scripts/*.ps1 -text
+reference_outputs/** -text
+*.md text eol=lf

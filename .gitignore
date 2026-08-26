@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+node_modules/
+npm-debug.log*
+*.tmp
+*.log
+.env
+.env.*
+05_analysis_results/final_2026-05-05/
+05_analysis_results/final_2026-05-11/
+04_metadata_sources/additional_data_collection_verification_2026-05-05.csv

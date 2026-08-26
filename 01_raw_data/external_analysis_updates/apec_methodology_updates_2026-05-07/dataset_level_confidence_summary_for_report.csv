@@ -1,0 +1,6 @@
+dataset_or_module,suggested_report_use,confidence_class,reason
+Cross-country annual risk panel,main methods/appendix,Medium,"Useful for relative screening, but variables are harmonised from different national definitions and some values are proxies."
+Korea Seoul daily RFID + weather pilot,main empirical pilot,High for food-waste flow; Medium for WtE fuel quality inference,"Large official RFID dataset and daily weather variables; however food waste discharge is a high-moisture proxy, not WtE bunker moisture/LHV."
+Indonesia municipal hotspot screening,main planning screen with caveat,Medium,"Municipality-level management and composition data enable hotspot screening, but composition match coverage is incomplete and SIPSN may update."
+Singapore WtE/fuel-quality case,contrast case and proxy analysis,Medium,"Official NEA waste and WtE infrastructure data are strong; plant-level intake, own-use electricity, outages, and bunker sampling are not public."
+LHV scenarios,"scenario interpretation, not measured result",Medium-Low for direct cross-country measurement,Same formulas can be compared where inputs exist; best-available LHV mixes model-based and literature benchmark values.

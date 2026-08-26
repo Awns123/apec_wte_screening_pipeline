@@ -1,0 +1,4 @@
+country,years,mean_risk_score_0_100,high_risk_years,medium_risk_years,low_risk_years,max_risk_year,max_risk_score_0_100,mean_best_available_lhv_mj_per_kg,min_lhv_year,min_best_available_lhv_mj_per_kg,mean_data_quality_score_0_100,primary_interpretation
+Indonesia,7,69.47,3,4,0,2025,75.6,9.678,2025,9.389,100,"Highest wet-feedstock risk; prioritize separation, drying, RDF/pre-treatment and municipal screening."
+South Korea,8,44.99,0,5,3,2024,49.75,10.323,2024,10.323,76.6,Useful Korea empirical proxy and facility LHV benchmark; direct national composition-LHV panel remains limited.
+Singapore,5,34.63,0,0,5,2021,39.62,11.561,2022,11.37,75,"Lower composition risk after disposed-proxy correction; use as resilient WTE infrastructure contrast, not plant-level causal model."

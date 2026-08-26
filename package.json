@@ -1,0 +1,14 @@
+{
+  "name": "apec-wte-screening-pipeline",
+  "version": "1.0.0-rc.1",
+  "private": true,
+  "description": "Publication candidate for a public-data WtE feedstock-risk screening pipeline.",
+  "scripts": {
+    "test": "node verify_integrity.js && node verify_reproduction.js",
+    "verify:integrity": "node verify_integrity.js",
+    "verify:reproduction": "node verify_reproduction.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

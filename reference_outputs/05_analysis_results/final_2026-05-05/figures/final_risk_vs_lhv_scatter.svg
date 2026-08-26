@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700" fill="#111827">Risk score vs best available LHV scenario</text>
+<line x1="70" y1="490" x2="870" y2="490" stroke="#111827"/>
+<line x1="70" y1="60" x2="70" y2="490" stroke="#111827"/>
+<text x="360" y="538" font-family="Arial" font-size="14" fill="#111827">Best available LHV (MJ/kg)</text>
+<text transform="translate(18 375) rotate(-90)" font-family="Arial" font-size="14" fill="#111827">Final feedstock-risk score (0-100)</text>
+<line x1="70" y1="490" x2="70" y2="495" stroke="#111827"/>
+<text x="62" y="512" font-family="Arial" font-size="12" fill="#374151">8</text>
+<line x1="230" y1="490" x2="230" y2="495" stroke="#111827"/>
+<text x="222" y="512" font-family="Arial" font-size="12" fill="#374151">9</text>
+<line x1="390" y1="490" x2="390" y2="495" stroke="#111827"/>
+<text x="382" y="512" font-family="Arial" font-size="12" fill="#374151">10</text>
+<line x1="550" y1="490" x2="550" y2="495" stroke="#111827"/>
+<text x="542" y="512" font-family="Arial" font-size="12" fill="#374151">11</text>
+<line x1="710" y1="490" x2="710" y2="495" stroke="#111827"/>
+<text x="702" y="512" font-family="Arial" font-size="12" fill="#374151">12</text>
+<line x1="870" y1="490" x2="870" y2="495" stroke="#111827"/>
+<text x="862" y="512" font-family="Arial" font-size="12" fill="#374151">13</text>
+<line x1="65" y1="490" x2="70" y2="490" stroke="#111827"/>
+<text x="32" y="494" font-family="Arial" font-size="12" fill="#374151">0</text>
+<line x1="65" y1="404" x2="70" y2="404" stroke="#111827"/>
+<text x="32" y="408" font-family="Arial" font-size="12" fill="#374151">20</text>
+<line x1="70" y1="404" x2="870" y2="404" stroke="#e5e7eb"/>
+<line x1="65" y1="318" x2="70" y2="318" stroke="#111827"/>
+<text x="32" y="322" font-family="Arial" font-size="12" fill="#374151">40</text>
+<line x1="70" y1="318" x2="870" y2="318" stroke="#e5e7eb"/>
+<line x1="65" y1="232" x2="70" y2="232" stroke="#111827"/>
+<text x="32" y="236" font-family="Arial" font-size="12" fill="#374151">60</text>
+<line x1="70" y1="232" x2="870" y2="232" stroke="#e5e7eb"/>
+<line x1="65" y1="146" x2="70" y2="146" stroke="#111827"/>
+<text x="32" y="150" font-family="Arial" font-size="12" fill="#374151">80</text>
+<line x1="70" y1="146" x2="870" y2="146" stroke="#e5e7eb"/>
+<line x1="65" y1="60" x2="70" y2="60" stroke="#111827"/>
+<text x="32" y="64" font-family="Arial" font-size="12" fill="#374151">100</text>
+<circle cx="329.52" cy="214.671" r="6" fill="#dc2626" opacity="0.85"/>
+<circle cx="329.52" cy="165.00599999999997" r="6" fill="#dc2626" opacity="0.85"/>
+<text x="337.52" y="157.00599999999997" font-family="Arial" font-size="11" fill="#111827">Indonesia 2020</text>
+<circle cx="350.96000000000004" cy="170.42400000000004" r="6" fill="#dc2626" opacity="0.85"/>
+<text x="358.96000000000004" y="162.42400000000004" font-family="Arial" font-size="11" fill="#111827">Indonesia 2021</text>
+<circle cx="351.27999999999986" cy="190.462" r="6" fill="#dc2626" opacity="0.85"/>
+<circle cx="353.67999999999995" cy="233.72000000000003" r="6" fill="#dc2626" opacity="0.85"/>
+<circle cx="362.1600000000001" cy="199.793" r="6" fill="#dc2626" opacity="0.85"/>
+<text x="370.1600000000001" y="191.793" font-family="Arial" font-size="11" fill="#111827">Indonesia 2024</text>
+<circle cx="292.2399999999999" cy="164.92000000000007" r="6" fill="#dc2626" opacity="0.85"/>
+<text x="300.2399999999999" y="156.92000000000007" font-family="Arial" font-size="11" fill="#111827">Indonesia 2025</text>
+<circle cx="661.5199999999999" cy="361.55899999999997" r="6" fill="#059669" opacity="0.85"/>
+<circle cx="629.1999999999998" cy="319.634" r="6" fill="#059669" opacity="0.85"/>
+<circle cx="609.1999999999998" cy="333.82399999999996" r="6" fill="#059669" opacity="0.85"/>
+<circle cx="655.9200000000001" cy="348.487" r="6" fill="#059669" opacity="0.85"/>
+<circle cx="642.8" cy="341.994" r="6" fill="#059669" opacity="0.85"/>
+<text x="650.8" y="333.994" font-family="Arial" font-size="11" fill="#111827">Singapore 2024</text>
+<circle cx="441.68000000000006" cy="315.764" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="311.077" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="320.924" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="283.21299999999997" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="286.223" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="283.557" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="295.64" r="6" fill="#2563eb" opacity="0.85"/>
+<circle cx="441.68000000000006" cy="276.075" r="6" fill="#2563eb" opacity="0.85"/>
+<text x="449.68000000000006" y="268.075" font-family="Arial" font-size="11" fill="#111827">Korea 2024</text>
+<circle cx="650" cy="78" r="6" fill="#dc2626"/>
+<text x="662" y="82" font-family="Arial" font-size="13" fill="#111827">Indonesia</text>
+<circle cx="650" cy="100" r="6" fill="#059669"/>
+<text x="662" y="104" font-family="Arial" font-size="13" fill="#111827">Singapore</text>
+<circle cx="650" cy="122" r="6" fill="#2563eb"/>
+<text x="662" y="126" font-family="Arial" font-size="13" fill="#111827">South Korea</text>
+</svg>

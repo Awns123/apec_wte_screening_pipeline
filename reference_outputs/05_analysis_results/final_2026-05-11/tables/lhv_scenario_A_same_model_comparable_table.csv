@@ -1,0 +1,21 @@
+country,year,wang2021_eq14_lhv_mj_per_kg,lin2015_eq26_lhv_mj_per_kg,kumar2023_mlr2_lhv_mj_per_kg,food_pct,paper_pct,plastic_pct,composition_basis,caveat,strictly_comparable_across_countries
+Indonesia,2019,9.622,4.753,11.626,40.799,11.699,15.879,country_year_panel,,yes_same_formula_set
+Indonesia,2020,9.622,4.753,11.626,40.799,11.699,15.879,country_year_panel,,yes_same_formula_set
+Indonesia,2021,9.756,5.179,11.94,38.95,11.649,17.85,country_year_panel,,yes_same_formula_set
+Indonesia,2022,9.758,5.256,12.141,39.899,11.25,18.399,country_year_panel,,yes_same_formula_set
+Indonesia,2023,9.773,5.378,12.289,39.639,10.78,19.19,country_year_panel,,yes_same_formula_set
+Indonesia,2024,9.826,5.475,12.339,39.36,11.229,19.41,country_year_panel,,yes_same_formula_set
+Indonesia,2025,9.389,4.328,10.789,34.847,9.359,15.103,country_year_panel,,yes_same_formula_set
+Singapore,2020,11.697,10.066,14.554,18.972,25.062,29.285,singapore_disposed_waste_proxy,"Singapore composition replaced with disposed waste proxy, closer to incineration feedstock than generated totals. Singapore weather replaced with official Changi/S24 observed humidity-weather aggregation.",yes_same_formula_set
+Singapore,2021,11.495,9.835,14.854,21.264,22.418,29.634,singapore_disposed_waste_proxy,"Singapore composition replaced with disposed waste proxy, closer to incineration feedstock than generated totals. Singapore weather replaced with official Changi/S24 observed humidity-weather aggregation.",yes_same_formula_set
+Singapore,2022,11.37,10.016,14.94,20.863,20.988,29.528,singapore_disposed_waste_proxy,"Singapore composition replaced with disposed waste proxy, closer to incineration feedstock than generated totals. Singapore weather replaced with official Changi/S24 observed humidity-weather aggregation.",yes_same_formula_set
+Singapore,2023,11.662,10.037,14.281,18.845,26.104,27.495,singapore_disposed_waste_proxy,"Singapore composition replaced with disposed waste proxy, closer to incineration feedstock than generated totals. Singapore weather replaced with official Changi/S24 observed humidity-weather aggregation.",yes_same_formula_set
+Singapore,2024,11.58,9.775,13.995,19.388,26.14,26.261,singapore_disposed_waste_proxy,"Singapore composition replaced with disposed waste proxy, closer to incineration feedstock than generated totals. Singapore weather replaced with official Changi/S24 observed humidity-weather aggregation.",yes_same_formula_set
+South Korea,2017,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2018,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2019,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2020,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2021,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2022,,,,32.706,,,country_year_panel,Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2023,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
+South Korea,2024,,,,32.706,,,country_year_panel,South Korea food share filled from available 2022 proxy for non-2022 years. Paper/plastic combustible share missing; neutral 25% placeholder used for risk scoring only.,no_missing_formula_inputs
